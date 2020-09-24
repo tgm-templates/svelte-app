@@ -1,0 +1,14 @@
+{
+    "name": "svelte-app",
+    "repository": "https://github.com/tgm-templates/svelte-app",
+    "description": "Svelte App template with Rollup.js",
+    "variables": [
+      {
+        "name": "appName",
+        "description": "App name"
+      }
+    ],
+    "files": [
+      "package.json"
+    ]
+  }
